@@ -1,4 +1,4 @@
-### Mini web server (Flask)
+# Mini web server (Flask)
 
 ## 💥 **About project**
 
