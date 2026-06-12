@@ -19,17 +19,20 @@ To build this project, you need to have the following dependencies installed:
 * python-dotenv (If you use Environment Variables);
 
 Install Flask:
-\`\`\`bash
+```bash
 pip install flask
+```
 
 Install python-dotenv:
-\`\`\`
+```
 pip install python-dotenv
+```
 
 Copy the full path to the folder containing your website and set it as the PROJECT_FOLDER variable in app.py.
 For example:
-\`\`\`
+```
 C:\Users\User\Desktop\your_folder
+```
 
 ## 💻 Starting the server
 Start the server by entering the following command in the terminal:
