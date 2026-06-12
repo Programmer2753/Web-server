@@ -29,7 +29,7 @@ pip install python-dotenv
 ```
 
 Copy the full path to the folder containing your website and set it as the PROJECT_FOLDER variable in app.py.
-For example:
+Example:
 ```
 C:\Users\User\Desktop\your_folder
 ```
