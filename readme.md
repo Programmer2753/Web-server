@@ -1,4 +1,4 @@
-# Mini web server (Flask)
+### Mini web server (Flask)
 
 ## 💥 **About project**
 
@@ -36,9 +36,9 @@ C:\Users\User\Desktop\your_folder
 
 ## 💻 Starting the server
 Start the server by entering the following command in the terminal:
-\`\`\`
+```
 python app.py
-\`\`\`
+```
 
 After that, the site will be accessible in your browser at: http://127.0.0.1:5000
 
